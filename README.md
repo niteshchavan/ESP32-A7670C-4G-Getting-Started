@@ -1,7 +1,7 @@
 # ESP32 + A7670C LTE Getting Started 
 
 ## ADIY GSM SIMA7670C 4G BREAKOUT BOARD (Ver 1.1) 
-![Hardware Setup](images/setup.jpg)
+![Hardware Setup](A149126_ADIY-SIM7670C-4G-Breakout-Board_1.webp)
 
 ## Version 1.2 has onboard Logic Level Shifter
 
