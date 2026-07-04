@@ -1,6 +1,6 @@
 # ESP32 + A7670C LTE Getting Started 
 
-##ADIY GSM SIMA7670C 4G BREAKOUT BOARD (Ver 1.1) 
+## ADIY GSM SIMA7670C 4G BREAKOUT BOARD (Ver 1.1) 
 ## Version 1.2 has onboard Logic Level Shifter
 
 > A complete beginner-to-advanced guide for interfacing an ESP32 with the SIMCom A7670C LTE Cat-1 module.
